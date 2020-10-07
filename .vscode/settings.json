@@ -1,0 +1,27 @@
+{
+    "editor.formatOnSave": true,
+    "npm.enableRunFromFolder": true,
+    "debug.node.autoAttach": "on",
+    "kite.developerMode": true,
+    "kite.enableOptionalCompletionsTriggers": true,
+    "html-css-class-completion.enableEmmetSupport": true,
+    "prettier.arrowParens": "always",
+    "prettier.arrayExpand": true,
+    "prettier.alignObjectProperties": true,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.insertPragma": true,
+    "prettier.proseWrap": "always",
+    "prettier.requireConfig": true,
+    "prettier.requirePragma": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.withNodeModules": true,
+    "prettier.breakProperty": true,
+    "prettier.breakBeforeElse": true,
+    "prettier.cssEnable": [
+    
+        "css",
+        "less",
+        "scss",
+        "postcss"
+    ]
+}
